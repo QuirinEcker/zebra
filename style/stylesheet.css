@@ -1,0 +1,28 @@
+.background {
+	background-image: url("../zebra_image1.jpeg");
+	background-repeat: no-repeat;
+	min-height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.text{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 40px;
+	font-size: 170%;
+}
+
+.Parallax {
+	background: url("../zebra_image2.jpeg");
+	background-repeat: no-repeat;
+	min-height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	
+	height: 1200px;
+}
+
